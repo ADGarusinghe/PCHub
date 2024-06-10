@@ -1,0 +1,1 @@
+Default admin user name is "admin@gmail.com" and password is "admin1234".
